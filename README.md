@@ -158,6 +158,17 @@ All parameters are set in `Parameters1.txt`. Key parameters:
 
 The FCM weight matrices for prey and predators are also defined in `Parameters1.txt`, after the scalar parameters. Refer to `EcoSim ODD.docx` for a complete ODD protocol description.
 
+
+## Related Projects
+
+| Project | What It Does |
+|---------|-------------|
+| [GPGOAP](https://github.com/sephirxth/GPGOAP) | General Purpose Goal-Oriented Action Planning — lightweight C library for game AI decision-making |
+| [SurvivorDemo](https://github.com/sephirxth/SurvivorDemo) | Vampire Survivors-style browser survival game |
+| [LLM Code Test](https://github.com/sephirxth/LLM_code_test) | Benchmark comparing LLMs on code generation (physics simulation task) |
+
+[All projects →](https://github.com/sephirxth)
+
 ## License
 
 GNU General Public License v3.0. See [LICENSE](LICENSE) for full text.
